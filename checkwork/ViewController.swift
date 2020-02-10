@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // コメントしてみる
+    
     @IBOutlet var label: UILabel!
     
     var count: Int = 0
